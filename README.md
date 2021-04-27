@@ -6,7 +6,7 @@
 To day we will use last weeks setup to build a basic api server for a mongo database.
 
 ## The REPO
-- Example -- i will push up a copy of the server i have bulit here after the stream. with some more details.
+- Example -- i will push up a copy of the server i have built here after the stream. with some more details.
 
 - [Stream_content](./Stream_Content.md) -- this is a text version of my step by step walkthrough of the stream.
 

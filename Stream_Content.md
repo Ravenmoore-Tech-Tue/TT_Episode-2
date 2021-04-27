@@ -2,7 +2,7 @@
 
 Script for stream to be made into a repo of instructions links and such.
 
-## Welcome People point them to repo and links ect.
+## Welcome People point them to repo and links etc.
 
 
 ## Create a repo on GitHub.
@@ -25,11 +25,11 @@ Create and link in routing js page and some basic API endpoints.
 
 ## Add error handeling routing.
 
-404 and 500 error minimum might make a few more for funsises.
+404 and 500 error minimum might make a few more for funsies.
 
 ## Add mongo and mongoose to server.
 
-Create a mongo db connect it to atlas and to our server then make a model and save something to a db and retirve it.
+Create a mongo db connect it to atlas and to our server then make a model and save something to a db and retrieve it.
 
 
 
